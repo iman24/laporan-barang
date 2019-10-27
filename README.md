@@ -1,0 +1,2 @@
+# laporan-barang
+Laporan Barang
